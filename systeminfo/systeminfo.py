@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """Main module."""
+
 import platform
 def main():
     print(platform.platform())
