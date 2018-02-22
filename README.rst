@@ -1,4 +1,19 @@
 ==========
+How to use
+=========
+
+This is an installable module to return the platform/model of the machine it is running on.
+
+To install this as a module, run the command:
+$ pip install git+https://github.com/obyrned1/systeminfo
+
+This will install systeminfo as a module on your machine.
+You can then import it and use it's main method on any  python project/file to return the platform/model.
+
+
+
+
+==========
 systeminfo
 ==========
 
